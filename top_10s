@@ -1,0 +1,55 @@
+TOP 10 Polite
+[(4.6346617, 'INFORM', 'HAPPINESS', 'OK ! Thank you very much !'),
+ (4.6340547, 'INFORM', 'HAPPINESS', 'Sure , that would be great ! Thank you !'),
+ (4.6320534, 'COMMISSIVE', 'HAPPINESS', 'That would be great ! Thanks a lot !'),
+ (4.6260576, 'INFORM', 'HAPPINESS', 'Thank you , thank you , thanks again .'),
+ (4.6249294, 'INFORM', 'HAPPINESS', 'OK , got it ! Thank you so much . You have helped me a lot !'),
+ (4.622933, 'INFORM', 'HAPPINESS', 'This is exciting ! Thank you so much !'),
+ (4.6217895, 'INFORM', 'no_emotion', 'Right . Thank you very much !'),
+ (4.6188626, 'INFORM', 'HAPPINESS', "That's great ! Thank you very much ."),
+ (4.618862, 'INFORM', 'HAPPINESS', "That's great ! Thank you very much ."),
+ (4.6160707, 'COMMISSIVE', 'HAPPINESS', 'Thank you so much for your assistance !')]
+TOP 10 Polite_N
+[(3.67066, 'DIRECTIVE', 'no_emotion', 'Yes , this is Julianne Horton , and I ’ m calling to arrange an appointment with Ms . McNeal .'),
+ (3.67066, 'DIRECTIVE', 'no_emotion', 'Yes , this is Julianne Horton , and I ’ m calling to arrange an appointment with Ms . McNeal .'),
+ (3.6706483, 'QUESTION', 'no_emotion', "That's right . What do you think we should do as a hobby ?"),
+ (3.6706483, 'QUESTION', 'no_emotion', "That's right . What do you think we should do as a hobby ?"),
+ (3.6706429, 'INFORM', 'no_emotion', 'Mr Jurgen , yes , the remittance has been successful .'),
+ (3.6705985, 'QUESTION', 'no_emotion', 'No problem , we pay 3,000 RIB per month . Plus a 20 % commission on all , a company car and other benefits . All travelling expenses will be reimbursed by the company . Do you have any other questions ?'),
+ (3.6705503, 'INFORM', 'no_emotion', "Yes . We all loved the celebration of our city's birthday . It made the people feel so proud of our city ."),
+ (3.670514, 'INFORM', 'no_emotion', 'Ok , I ’ ll pay by card then .'),
+ (3.6705081, 'COMMISSIVE', 'no_emotion', "Ok . I won't get into trouble ."),
+ (3.6704898, 'QUESTION', 'no_emotion', 'We offer a Personal Automobile Consumer Loan . The application process is pretty straight forward . I trust you have enough funds to cover the 20 % down payment ?')]
+TOP 10 Neutral
+[(3.3439288, 'INFORM', 'no_emotion', 'Checking out time is twelve . Guests will avoid an additional days room charge by checking out on time .'),
+ (3.343912, 'INFORM', 'HAPPINESS', 'I went to the tutoring service centre on campus today . And I got a job .'),
+ (3.3439093, 'INFORM', 'no_emotion', 'Well , yes , but those people always start talking to me . I never talk to them first . Perhaps I ’ m not as shy as I think . Anyway , you ’ re certainly not shy !'),
+ (3.3439064, 'INFORM', 'HAPPINESS', 'I never knew there were so many fun things to do on a farm .'),
+ (3.3439026, 'INFORM', 'no_emotion', "Just a minute . It's ten to nine by my watch ."),
+ (3.343896, 'INFORM', 'no_emotion', 'You may check out books or videos .'),
+ (3.343885, 'QUESTION', 'no_emotion', 'That ’ s a small fee ?'),
+ (3.3438804, 'INFORM', 'no_emotion', 'Most of them are not so practical . It will be very bad for your health if you skip lunches or supers as the recommended . I think making an exercise plan can be more effective .'),
+ (3.343877, 'INFORM', 'no_emotion', 'Yes , but I have never taken his class before .'),
+ (3.3438685, 'DIRECTIVE', 'HAPPINESS', 'Come to my house for Thanksgiving ! We are having turkey , pumpkin pie , mashed potatoes with gravy , and lots of stuffing !')]
+TOP 10 ImPolite_N
+[(3.1723838, 'QUESTION', 'no_emotion', "Goofed off ? Maybe , but I'm not a clock-watcher . I finished doing what I should do and then knock off an hour earlier ."),
+ (3.1723838, 'QUESTION', 'no_emotion', "Goofed off ? Maybe , but I'm not a clock-watcher . I finished doing what I should do and then knock off an hour earlier ."),
+ (3.1723838, 'INFORM', 'no_emotion', "Goofed off ? Maybe , but I'm not a clock-watcher . I finished doing what I should do and then knock off an hour earlier ."),
+ (3.172371, 'QUESTION', 'no_emotion', "What's so bad about it ?"),
+ (3.1723628, 'INFORM', 'DISGUST', 'It was boring . The music was too slow and the food was lousy and , above all , I was really sick of the same old crowd all the time .'),
+ (3.172357, 'QUESTION', 'no_emotion', 'Which do you prefer , color or black and white ?'),
+ (3.1723554, 'INFORM', 'no_emotion', "I can't forget about this when next time ."),
+ (3.1723526, 'INFORM', 'HAPPINESS', 'Ha-ha . Birth control and abortion are four-letter words in my family .'),
+ (3.1723359, 'INFORM', 'no_emotion', 'It must have taught you a lesson this time .'),
+ (3.1723275, 'DIRECTIVE', 'no_emotion', 'really ? Did you see the hijacked planes crash into and destroy the twin towers ?')]
+TOP 10 ImPolite
+[(1.5940685, 'INFORM', 'no_emotion', 'Don ’ t dress like that . You ’ ll make fool yourself . You look stupid in that robe .'),
+ (1.5940685, 'INFORM', 'no_emotion', 'Don ’ t dress like that . You ’ ll make fool yourself . You look stupid in that robe .'),
+ (1.5940685, 'INFORM', 'DISGUST', 'Don ’ t dress like that . You ’ ll make fool yourself . You look stupid in that robe .'),
+ (1.5598711, 'INFORM', 'no_emotion', 'Then you must be off your head . He is a real bastard .'),
+ (1.5145787, 'COMMISSIVE', 'ANGER', 'Make it work , Geoff . You would say that , wouldn ’ t you , he is your cousin.what a jerk , make me hire your stupid , useless , cousin .'),
+ (1.5078363, 'DIRECTIVE', 'no_emotion', "I hope you're not turning into a sissy on me , Dave ."),
+ (1.4792057, 'DIRECTIVE', 'no_emotion', 'Get up , you lazybones !'),
+ (1.4606345, 'DIRECTIVE', 'SURPRISE', 'You idiot ! Don ’ t say that ! Do you want this job , or not ?'),
+ (1.3763056, 'DIRECTIVE', 'ANGER', 'Get out of my store , you jerk !'),
+ (1.3763053, 'DIRECTIVE', 'ANGER', 'Get out of my store , you jerk !')]
